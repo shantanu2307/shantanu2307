@@ -7,9 +7,6 @@
 <br>
 [Github](https://github.com/shantanu2307)
 
-![Shantanu's Github stats](https://github-readme-stats.vercel.app/api?username=shantanu2307&show_icons=true&theme=radical)
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -21,6 +18,9 @@ const shantanu = {
   challenge: "I am currently learning Hooks in React"
 }
 ```
+<br>
+![Shantanu's Github stats](https://github-readme-stats.vercel.app/api?username=shantanu2307&show_icons=true&theme=radical)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
