@@ -1,6 +1,6 @@
 <h2> Hi, I'm Shantanu Goyal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
-<p><em>MERN Stack Web Developer at <a href="http://www.nsit.ac.in/">Netaji Subhas University of Technology </a>
+<p><em>MERN Stack Web Developer currently studying B.Tech Computer Science and Engineering with Specialisation in Artificial Intelligence at <a href="http://www.nsit.ac.in/">Netaji Subhas University of Technology </a>
 </em></p>
 
 [Linkedin](https://www.linkedin.com/in/shantanugoyal23/)
