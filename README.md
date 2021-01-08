@@ -3,8 +3,11 @@
 <p><em>MERN Stack Web Developer at <a href="http://www.nsit.ac.in/">Netaji Subhas University of Technology </a>
 </em></p>
 
-[![Linkedin: Shantanu Goyal])](https://www.linkedin.com/in/shantanugoyal23/)
-[![GitHub Shantanu Goyal]](https://github.com/shantanu2307)
+[Linkedin](https://www.linkedin.com/in/shantanugoyal23/)
+<br>
+[Github](https://github.com/shantanu2307)
+
+![Shantanu's Github stats](https://github-readme-stats.vercel.app/api?username=shantanu2307&show_icons=true&theme=radical)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
