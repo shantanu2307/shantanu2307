@@ -1,5 +1,5 @@
 <h2> Hi, I'm Shantanu Goyal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 <p><em>MERN Stack Web Developer at <a href="http://www.nsit.ac.in/">Netaji Subhas University of Technology </a><img src="http://www.nsit.ac.in/static/images/nsut_logo.png" width="30">
 </em></p>
 
