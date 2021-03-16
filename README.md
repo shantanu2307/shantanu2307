@@ -15,9 +15,8 @@
 ```javascript
 const shantanu = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, SASS, Python, C, C++],
-  tools: [React, Redux, Node, MongoDb, Express, Next, GASP, BootStrap-4],
-  architecture: ["microservices"],
+  code: [Javascript,C, C++],
+  tools: [React, MongoDb, Express],
   challenge: "I am currently learning Hooks in React"
 }
 ```
